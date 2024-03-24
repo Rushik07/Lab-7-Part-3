@@ -1,0 +1,20 @@
+nav {
+    height: fit-content;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+
+}
+
+#flex-box {
+    flex-direction: column;
+}
+
+header h1 {
+    padding-left: 20%;
+
+}
+
+nav a {
+    margin: 0 2%;
+}
